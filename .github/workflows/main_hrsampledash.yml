@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'HRSampleDash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_891B0B1DE1B74F35A750D904397DB532 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A46C5A7930B24E35BF30253098E53551 }}
